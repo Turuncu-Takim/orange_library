@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WebApplication1.Models;
 
 namespace WebApplication1.Context
 {
@@ -7,5 +8,9 @@ namespace WebApplication1.Context
         public LibraryContext(DbContextOptions<LibraryContext> options): base(options) 
         {
         }
+        public DbSet<Kitap> Kitap { get; set; }
+        public DbSet<Gorevli> Gorevli { get; set;}
+        public DbSet<Uyeler> Uyeler { get; set;}
+        public DbSet<Yonetici> Yonetici { get; set;}
     }
 }
