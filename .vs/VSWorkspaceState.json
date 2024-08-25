@@ -4,7 +4,8 @@
     "\\WebApplication1",
     "\\WebApplication1\\WebApplication1",
     "\\WebApplication1\\WebApplication1\\bin",
-    "\\WebApplication1\\WebApplication1\\Controllers"
+    "\\WebApplication1\\WebApplication1\\Context"
   ],
+  "SelectedNode": "\\WebApplication1\\WebApplication1\\Context\\LibraryContext.cs",
   "PreviewInSolutionExplorer": false
 }

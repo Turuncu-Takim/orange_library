@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Github\\orange_library\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\models\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\uyeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\models\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\models\\gorevli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\gorevli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\context\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|d:\\github\\orange_library\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF919A5-2E85-4BDD-9833-9A3398F8C5E3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +47,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Uyeler.cs",
+              "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Uyeler.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Uyeler.cs",
+              "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Uyeler.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Uyeler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:48:34.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Yonetici.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Yonetici.cs",
+              "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Yonetici.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Yonetici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:39:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gorevli.cs",
+              "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Gorevli.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Gorevli.cs",
+              "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Gorevli.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Gorevli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:33:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Kitap.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Kitap.cs",
+              "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Models\\Kitap.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:25:27.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T11:03:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LibraryContext.cs",
               "DocumentMoniker": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Context\\LibraryContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Context\\LibraryContext.cs",
               "ToolTip": "D:\\Github\\orange_library\\WebApplication1\\WebApplication1\\Context\\LibraryContext.cs",
               "RelativeToolTip": "WebApplication1\\Context\\LibraryContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T10:26:19.63Z",
               "EditorCaption": ""
